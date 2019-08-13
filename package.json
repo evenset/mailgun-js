@@ -1,6 +1,6 @@
 {
   "name": "mailgun.js",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "main": "index.js",
   "author": "Mailgun",
   "license": "MIT",
@@ -33,7 +33,7 @@
     "lodash.indexby": "^3.1.1",
     "lodash.last": "^3.0.0",
     "lodash.map": "^3.1.4",
-    "lodash.merge": "^3.3.2",
+    "lodash.merge": "^4.6.2",
     "lodash.partialright": "^3.1.1",
     "popsicle": "^1.1.1",
     "popsicle-status": "^0.2.0",
